@@ -1,0 +1,47 @@
+# When you read this, make sure that use installed "Spotify" and ran "BlockTheSpot.bat" file.
+# If you did everything above but it didn't block all ads, do this
+# Copy everything below: 
+--------------------------------------------------
+127.0.0.1 adclick.g.doublecklick.net 
+127.0.0.1 adeventtracker.spotify.com 
+127.0.0.1 ads-fa.spotify.com 
+127.0.0.1 analytics.spotify.com 
+127.0.0.1 audio2.spotify.com 
+127.0.0.1 b.scorecardresearch.com 
+127.0.0.1 bounceexchange.com 
+127.0.0.1 bs.serving-sys.com 
+127.0.0.1 content.bitsontherun.com 
+127.0.0.1 core.insightexpressai.com 
+127.0.0.1 crashdump.spotify.com 
+127.0.0.1 d2gi7ultltnc2u.cloudfront.net 
+127.0.0.1 d3rt1990lpmkn.cloudfront.net 
+127.0.0.1 desktop.spotify.com 
+127.0.0.1 doubleclick.net 
+127.0.0.1 ds.serving-sys.com 
+127.0.0.1 googleadservices.com 
+127.0.0.1 googleads.g.doubleclick.net 
+127.0.0.1 gtssl2-ocsp.geotrust.com 
+127.0.0.1 js.moatads.com 
+127.0.0.1 log.spotify.com 
+127.0.0.1 omaze.com 
+127.0.0.1 open.spotify.com 
+127.0.0.1 pagead46.l.doubleclick.net 
+127.0.0.1 pagead2.googlesyndication.com 
+127.0.0.1 partner.googleadservices.com 
+127.0.0.1 pubads.g.doubleclick.net 
+127.0.0.1 redirector.gvt1.com 
+127.0.0.1 s0.2mdn.net 
+127.0.0.1 securepubads.g.doubleclick.net 
+127.0.0.1 tpc.googlesyndication.com 
+127.0.0.1 v.jwpcdn.com 
+127.0.0.1 video-ad-stats.googlesyndication.com 
+127.0.0.1 https://www.techattend.com 
+127.0.0.1 weblb-wg.gslb.spotify.com 
+127.0.0.1 http://www.googleadservices.com 
+127.0.0.1 http://www.googletagservices.com 
+127.0.0.0 gads.pubmatic.com
+---------------------------------------------------------
++ After that, open "File Explorer" and change directory to "C:\Windows\System32\drivers\etc" 
++ Double click to "host" file then paste all content above to that file. 
++ Finally you save that and enjoy !!! :D
+### It's may can only work for windows operating system ###
